@@ -2,6 +2,7 @@
 # Numbers are provided by the user
 
 # Store input numbers
+#You can also give flot number
 num1 = 15
 num2 = 10
 
